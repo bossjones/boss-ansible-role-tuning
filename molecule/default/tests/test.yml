@@ -1,0 +1,4 @@
+---
+- hosts: allroles:
+    - role: boss-ansible-role-tuningbossjones__user: vagrant
+      bossjones__group: vagrant
